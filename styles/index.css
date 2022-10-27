@@ -1,0 +1,42 @@
+body {
+    font-family: "Balsamiq Sans", cursive;
+    background-color: #f1f1f1;
+}
+
+h1 {
+    font-size: 4rem;
+    position: relative;
+    text-align: center;
+    color: #383627;
+}
+
+
+.foot {
+    display: inline-block;
+    left: 32%;
+    position: relative;
+    top: 5em;
+    color: black;
+    border-spacing: 2px;
+}
+
+.btn {
+    font-style: inherit;
+    font-size: 16px;
+    letter-spacing: 2px;
+    margin-right: 1em;
+    text-transform: uppercase;
+    color: #4b343e;
+    cursor: pointer;
+    border: 3px solid;
+    padding: 0.25em 0.5em;
+    box-shadow: 1px 1px 0px 0px, 2px 2px 0px 0px, 3px 3px 0px 0px, 4px 4px 0px 0px,
+        5px 5px 0px 0px;
+    position: relative;
+    
+}
+
+#fcfs{
+    padding-left: 50px;
+    padding-right: 50px;
+}
